@@ -1,5 +1,5 @@
  <?php
-  $PUBLIC = getenv('PUBLIC');
+  // $PUBLIC = getenv('PUBLIC');
   require(__DIR__ . '/../inc/password_protect.php');
   ?>
 
@@ -20,7 +20,7 @@
 
    <!-- body here      -->
    <?php 
-   echo "<h2>yo: ". $PUBLIC ."</h2>";
+  //  echo "<h2>yo: ". $PUBLIC ."</h2>";
    ?>
 
 

@@ -1,4 +1,4 @@
- <?php require("../../assets/inc/password_protect.php"); ?> 
+ <?php require("../../inc/password_protect.php"); ?> 
 
 <!doctype html>
 <html lang="en">
@@ -6,7 +6,7 @@
 
 
 <!-- header here      -->
- <?php require("../../assets/inc/header.php"); ?> 
+ <?php require("../../inc/header.php"); ?> 
 
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
@@ -16,7 +16,7 @@
 <body>
 
 <!-- navbar here      -->
- <?php require("../../assets/inc/navbar.php"); ?> 
+ <?php require("../../inc/navbar.php"); ?> 
 
 <!-- body (main content) here ----------------------->
 

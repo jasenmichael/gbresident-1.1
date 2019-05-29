@@ -6,7 +6,7 @@
 
 
 <!-- header here      -->
- <?php require(__DIR__ . '/../web/inc/header.php'; ?> 
+ <?php require(__DIR__ . '/../web/inc/header.php'); ?> 
 </head>
 <body>
 

@@ -15,7 +15,7 @@
                 
                 
                 <!--forms begin -->
-                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-wpforms fa-lg" aria-hidden="true"></i>
+                <li class="dropdown"><a href="/files/?dir=forms" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-wpforms fa-lg" aria-hidden="true"></i>
  Forms <b class="caret"></b></a>
                     <ul class="dropdown-menu" role="menu">
                       

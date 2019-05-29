@@ -1,4 +1,4 @@
- <?php require(__DIR__ . '/../web/inc/password_protect.php'); ?> 
+ <?php require(__DIR__ . '/../inc/password_protect.php'); ?> 
 
 <!doctype html>
 <html lang="en">
@@ -6,12 +6,12 @@
 
 
 <!-- header here      -->
- <?php require(__DIR__ . '/../web/inc/header.php'); ?> 
+ <?php require(__DIR__ . '/../inc/header.php'); ?> 
 </head>
 <body>
 
 <!-- navbar here      -->
- <?php require(__DIR__ . '/../web/inc/navbar.php'); ?> 
+ <?php require(__DIR__ . '/../inc/navbar.php'); ?> 
 
 <!-- body here      -->
 
@@ -61,7 +61,7 @@
 
 <!-- footer here      -->
       <footer class="text-center">
- <?php require(__DIR__ . '/../web/inc/footer.php'); ?> 
+ <?php require(__DIR__ . '/../inc/footer.php'); ?> 
       </footer>
 
 

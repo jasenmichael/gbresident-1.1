@@ -1,0 +1,15 @@
+{
+  "name": "gbresident",
+  "version": "1.0.0",
+  "description": "gbresident",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add -A && git commit -m 'deploy to heroku' && git push heroku master && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heroku/php-getting-started.git"
+  },
+  "author": "jasenmichael",
+  "license": "ISC"
+}

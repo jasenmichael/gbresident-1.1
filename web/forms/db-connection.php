@@ -2,10 +2,10 @@
 set_time_limit(0);
 ini_set("memory_limit","-1");
 
-$servername = "10.14.72.12";
-$username = "aurorab2_gb";
-$password = "aurorab2_gb";
-$db = 'aurorab2_gb';
+$servername = "us-cdbr-iron-east-02.cleardb.net";
+$username = "b38cbdfaae4f40";
+$password = "d94ce7a6";
+$db = 'heroku_4fafaa7172f3435';
 // Create connection
 $conn = new mysqli($servername, $username, $password, $db);
 

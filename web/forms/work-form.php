@@ -28,7 +28,7 @@
 
 
  	<?php
-		require_once('../../inc/db-connection.php');
+		require_once("../../inc/db-connection.php");
 
 		//save record to db if method is post
 		if ($_POST) {

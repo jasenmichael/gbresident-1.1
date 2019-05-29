@@ -4,7 +4,7 @@
   "description": "gbresident",
   "main": "index.js",
   "scripts": {
-    "deploy": "git add -A && git commit -m deploy-to-heroku && git push heroku master && exit 1"
+    "deploy": "git add -A && git commit -m deploy-to-heroku && git push heroku master"
   },
   "repository": {
     "type": "git",

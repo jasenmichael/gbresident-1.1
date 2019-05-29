@@ -1,5 +1,6 @@
 vendor/
 .env
+env.php
 node_modules/
 package.json
 seed.sql
